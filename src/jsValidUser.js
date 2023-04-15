@@ -1,0 +1,5 @@
+class JsValidUser {
+    constructor(targetInfo) {
+
+    }
+}
